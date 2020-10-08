@@ -1,0 +1,10 @@
+-travelling hunchback salesmen
+
+-pets
+
+-water/lava environments/rooms
+
+GENERATION:
+-set rooms (maybe add randomness to the shapes later)
+-rooms set on diamond-square heightmap
+-connected by corridors; if too height difference steep, by a ladder/staircase or something.
